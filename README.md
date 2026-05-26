@@ -21,3 +21,13 @@ To dismantle structural debt dependencies among agricultural producers across So
 ## How to Build
 ```bash
 soroban contract build
+
+
+## Contract ID
+CAO6EEQY4AC6THKD5OCDES4ETHJSNUHVZGBSEZWR4DMVFURWJUE55OSV
+
+![picture](ishgurame.png)
+
+
+## Contract Link
+https://stellar.expert/explorer/testnet/contract/CAO6EEQY4AC6THKD5OCDES4ETHJSNUHVZGBSEZWR4DMVFURWJUE55OSV
